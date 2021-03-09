@@ -100,6 +100,8 @@ public class AccumulatorsBroadcasting {
 
         //Display results for manufacturers
         manufacturers.show();
+
+        bcVar.destroy();
     }
 
 }
